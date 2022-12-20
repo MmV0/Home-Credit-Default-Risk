@@ -1,9 +1,8 @@
 # Home-Credit-Default-Risk
-Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
+This project aims to predict the likelihood of default for loan applicants at Home Credit, a financial institution focused on providing loans to underserved populations with little or no credit history.
 
-Home Credit Group
-Home Credit strives to broaden financial inclusion for the unbanked population by providing a positive and safe borrowing experience. In order to make sure this underserved population has a positive loan experience, Home Credit makes use of a variety of alternative data--including telco and transactional information--to predict their clients' repayment abilities.
+To accomplish this task, we will be using a dataset provided by Home Credit containing a variety of information on loan applicants, including demographic and financial characteristics, as well as past payment history. We will use this data to train and evaluate a variety of machine learning models in order to identify the most accurate and reliable method for predicting default risk.
 
-While Home Credit is currently using various statistical and machine learning methods to make these predictions, they're challenging Kagglers to help them unlock the full potential of their data. Doing so will ensure that clients capable of repayment are not rejected and that loans are given with a principal, maturity, and repayment calendar that will empower their clients to be successful.
+The goal of this project is to help Home Credit make informed lending decisions, enabling them to provide loans to those who are most likely to successfully repay them, while also protecting the company's financial stability. By accurately predicting default risk, Home Credit can make more informed and effective lending decisions, ultimately helping to build a more sustainable and successful business.
 
 The full challenge is accessible [here](https://www.kaggle.com/competitions/home-credit-default-risk/overview)
